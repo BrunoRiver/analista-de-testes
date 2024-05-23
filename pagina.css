@@ -1,0 +1,30 @@
+    #buscarPet {
+        display :inline-flex;
+        margin: 5px 10px 30px;
+        width:auto;
+        
+    }
+    #coloquePet{
+        margin-left: 30px;
+        border-radius: 3px;
+    }
+    #coloqueCpf{
+        border-radius: 3px;
+    }
+    #logo{
+    width: 100vh;
+    height: 45vh;
+    }
+    #busca{
+        margin:10px;
+        border-radius: 15px;
+        height: 100px;
+    }
+    #buttom{
+        border-radius: 10px; 
+        width: 100px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        margin: 10px 5px 5px;
+    }
